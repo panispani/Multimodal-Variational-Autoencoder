@@ -1,6 +1,6 @@
 # Multimodal Variational Autoencoder
 
-Implementation of "Multimodal Generative Models for Scalable Weakly-Supervised Learning" paper
+Implementation of ["Multimodal Generative Models for Scalable Weakly-Supervised Learning"](https://arxiv.org/abs/1802.05335) paper
 
 ### Requirements
 torch == 0.4.1
